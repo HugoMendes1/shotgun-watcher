@@ -1,0 +1,12 @@
+{
+  "name": "shotgun-watcher",
+  "version": "1.0.0",
+  "main": "watch-shotgun-discord.js",
+  "type": "module",
+  "scripts": {
+    "start": "node watch-shotgun-discord.js"
+  },
+  "dependencies": {
+    "playwright": "^1.47.0"
+  }
+}
