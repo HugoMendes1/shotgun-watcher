@@ -4,8 +4,7 @@
   "main": "watch-shotgun-discord.js",
   "type": "module",
   "scripts": {
-    "start": "node watch-shotgun-discord.js",
-    "postinstall": "npx playwright install --with-deps chromium"
+    "start": "node watch-shotgun-discord.js"
   },
   "dependencies": {
     "playwright": "^1.47.0"
